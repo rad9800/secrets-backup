@@ -1,0 +1,5 @@
+# CI Deploy Config
+aws:
+  access_key_id: AKIAZNNXWAGUYX46RWWZ
+  secret_access_key: 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
+  region: us-east-1
